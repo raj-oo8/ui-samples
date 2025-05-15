@@ -4,6 +4,6 @@ This repository contains sample projects covering various topics to demonstrate 
 
 ## Topics Covered
 
-- Responsive UI
+- Responsive Layout
 - Google Material Design
 
