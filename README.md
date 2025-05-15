@@ -6,4 +6,5 @@ This repository contains sample projects covering various topics to demonstrate 
 
 - Responsive Layout
 - Google Material Design
+- GitHub Pages
 
