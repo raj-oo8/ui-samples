@@ -2,7 +2,7 @@
   "name": "Sample UI",
   "short_name": "Sample UI",
   "id": "/",
-  "start_url": "/",
+  "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#03173d",
