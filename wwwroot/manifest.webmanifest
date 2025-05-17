@@ -1,8 +1,8 @@
 {
   "name": "Sample UI",
   "short_name": "Sample UI",
-  "id": "./",
-  "start_url": "./",
+  "id": "/",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#03173d",
