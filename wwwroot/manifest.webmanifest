@@ -1,7 +1,7 @@
 {
   "name": "Sample UI",
   "short_name": "Sample UI",
-  "id": "/",
+  "id": "/ui-samples/",
   "start_url": "/ui-samples/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
