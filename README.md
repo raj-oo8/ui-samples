@@ -9,4 +9,6 @@ This repository contains sample projects covering various topics to demonstrate 
 - HyperText Markup Language (HTML)
 - Cascading Style Sheets (CSS)
 - GitHub Pages
+- Web App Manifest
+- Progressive Web Apps
 
