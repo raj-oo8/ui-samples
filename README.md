@@ -4,7 +4,7 @@ This repository contains sample projects covering various topics to demonstrate 
 
 ## Topics Covered
 
-- Responsive Layout
+- Responsive Layout (Watch, Phone, Tablet, Laptop, Television)
 - Google Material You Design
 - HyperText Markup Language (HTML)
 - Cascading Style Sheets (CSS)
