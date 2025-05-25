@@ -11,4 +11,5 @@ This repository contains sample projects covering various topics to demonstrate 
 - GitHub Pages
 - Web App Manifest
 - Progressive Web Apps
+- Auto Dark Mode
 
