@@ -5,7 +5,7 @@ This repository contains sample projects covering various topics to demonstrate 
 ## Topics Covered
 
 - Responsive Layout
-- Google Material Design
+- Google Material You Design
 - HyperText Markup Language (HTML)
 - Cascading Style Sheets (CSS)
 - GitHub Pages
